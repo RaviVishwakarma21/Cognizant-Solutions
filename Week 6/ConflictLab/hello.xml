@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <hello>Main Branch</hello>
+=======
+<hello>GitWork Branch</hello>
+>>>>>>> 66f9e78 (Added hello.xml in GitWork)
